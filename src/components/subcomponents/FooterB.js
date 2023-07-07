@@ -8,8 +8,8 @@ function FooterB() {
                 position: "fixed",
                 bottom: "0",
                 width: "100%",
-                backgroundColor: "#44364B  ",
-                color: "white",
+                backgroundColor: "#0F0E11",
+                color: "#61DAFB",
             }}
         >
             <small>© 2023 K1ngSlayer development. All rights reserved.</small>

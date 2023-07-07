@@ -7,8 +7,8 @@ function HeaderB() {
                 display: "flex",
                 justifyContent: "space-between",
                 alignItems: "center",
-                backgroundColor: "#44364B",
-                color: "white",
+                backgroundColor: "#0F0E11",
+                color: "#61DAFB",
             }}
         >
             <h4 style={{ marginLeft: "10px" }}>The K1ngSlayers</h4>
