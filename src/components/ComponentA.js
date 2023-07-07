@@ -1,6 +1,6 @@
 import React from "react";
 
-function Content() {
+function ComponentA() {
     return (
         <div style={{ margin: "20px" }}>
             <img src="/logo192.png" alt="Logo" style={{ width: "40px" }} />
@@ -18,4 +18,4 @@ function Content() {
     );
 }
 
-export default Content;
+export default ComponentA;
