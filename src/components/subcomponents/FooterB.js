@@ -7,9 +7,8 @@ function FooterB() {
                 padding: "5px",
                 position: "fixed",
                 bottom: "0",
-
                 width: "100%",
-                backgroundColor: "#2f2c1a",
+                backgroundColor: "#44364B  ",
                 color: "white",
             }}
         >
